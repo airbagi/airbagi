@@ -3,10 +3,10 @@
 
 In 2001 I founded **Media Programming Group** company. It worked till 2014, providing WEB services, custom programming services. During those years we created lots of projects for 
 USA, Denmark, UK, Greece and other countries. We also created lots of our own software (CMS, CRM systems, lots of WWW sites). 
-After that, I've selled this company and quit with programming. I've started automative R&D, learning how to repair SRS (Supplementary Restraint System).
+After that, I've selled this company and quit with programming. I've started automotive R&D, learning how to repair SRS (Supplementary Restraint System).
 Lots of research was done, some projects were created. 
 
-My main interests is reverse-engineering, research in automative electronics.
+My main interests is reverse-engineering, research in automotive electronics.
 
 ## Projects
 My main projects are: 
